@@ -1,1 +1,2 @@
 # Checkpoint2_311
+I have chosen to build an ecommerce site like amazon for my checkpoint. Not only have I lacked in the kind of creativity necessary to define a fulfilling project for myself, but I have recently been approached by someone needing someone to create this exact service. I figure it will be a practicle use of my focus.
